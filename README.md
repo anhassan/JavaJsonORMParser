@@ -10,7 +10,7 @@ The data rendered from  the JSON input would have the following features:
 * The output ***phone number*** would have the following format : *(XXX) XXX-XXXX*
 
 * The output ***"postalCode"*** would be in the format of A#A #A#
-* For the "birthday" column, output only yyyy-MM-dd
+* For the ***"birthday"*** column, output only yyyy-MM-dd
 * For the ***"ageGroup"*** column, the age would be calculated based on the current date and "birthday" value.
 
 * If there is no birthday - output would be *"Unknown"*
