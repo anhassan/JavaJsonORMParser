@@ -1,0 +1,42 @@
+[
+	{
+		"firstName": "Michael",
+		"lastName": "Scott",
+		"email": "mgscott@dundermifflin.com",
+		"phone": "(555) 777 0304",
+		"postalCode": "M5B 2J6",
+		"optIn": true,
+		"birthday": "1930-04-23T16:25:43.511Z",
+		"diet": "Standard"
+
+	},
+	{
+		"firstName": "Dwight",
+		"lastName": "Schrute",
+		"email": "dschruteaarm@dundermifflin.com",
+		"phone": "5557770304",
+		"postalCode": "M5B2J6",
+		"optIn": false,
+		"birthday": "1999-04-23T11:25:43.511Z"
+	},
+	{
+		"firstName": "Pamela Beesly-Halpert",
+		"lastName": "",
+		"email": "pam@dundermifflin.com",
+		"phone": "555 777 0304",
+		"postalCode": "M5B 2J6",
+		"optIn": true,
+		"birthday": "",
+		"diet": "Vegetarian",
+		"birthday": "1984-05-23T11:25:43.511Z"
+	},
+	{
+		"firstName": "Andy",
+		"lastName": "Bernard",
+		"email": "abernard@dundermifflin.com",
+		"phone": null,
+		"postalCode": "",
+		"optIn": true,
+		"birthday": "2010-04-24T11:25:43.511Z"
+	}
+]
